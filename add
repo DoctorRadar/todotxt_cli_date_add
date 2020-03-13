@@ -1,0 +1,8 @@
+#!/bin/sh
+
+# create the date string
+d=`date +%Y-%m-%d`
+
+# add it to the todo list with a date infront
+todo.sh command add $d "${@:2}"
+
