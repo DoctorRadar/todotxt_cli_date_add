@@ -1,4 +1,4 @@
-# todotxt_cli_date_add
+# todotxt cli date add
 
 ## Description
 
