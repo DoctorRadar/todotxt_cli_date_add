@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 # create the date string
 d=`date +%Y-%m-%d`
