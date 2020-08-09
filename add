@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 % Add reformat the input arguments to remove the 'add' thats the "${@:2}"
 % Call todo.sh using the -t flag to add the created on date and the default add command.
